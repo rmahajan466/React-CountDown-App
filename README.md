@@ -10,7 +10,8 @@ This project is part of the PWSkills Full Stack course, focusing on React. The C
 ## Technologies Used
 
 - React
-- Cascading Style Sheets (CSS)
+- CSS
+- HTML
 
 ## Installation
 
